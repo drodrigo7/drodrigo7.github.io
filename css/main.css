@@ -1872,12 +1872,12 @@ header .logo a {
 .about-span-description {
   text-transform: none;
   display: block;
-  font-family: "poppins-regular", sans-serif;
-  color: #999898;
-  font-size: 1.5rem;
-  line-height: 1.15;
+  font-family: "poppins-light", sans-serif;
+  color: #878686;
+  font-size: 1.45rem;
+  line-height: 1.5;
   margin-top: 5px;
-  text-align: justify;
+  text-align: none;
 }
 
 .about-content .skill-bars {
